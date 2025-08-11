@@ -23,6 +23,3 @@ Designed with a clean UI, fast performance, and easy-to-manage code structure.
 **State Management:** React Context API  
 **Deployment:** Vercel (ready with `vercel.json`)
 
----
-
-## 📂 Folder Structure
